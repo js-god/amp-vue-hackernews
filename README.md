@@ -1,3 +1,5 @@
+[![Run on Repl.it](https://repl.it/badge/github/js-god/amp-vue-hackernews)](https://repl.it/github/js-god/amp-vue-hackernews)
+
 # AMP Hacker News client PWA
 Hacker News client app built with Nuxt.js (and Vue.js) which generates fast and lightweight [AMP pages](https://amp.dev/) as a [Progressive Web Application](https://amp.dev/documentation/guides-and-tutorials/optimize-and-measure/amp_to_pwa.html)
 
